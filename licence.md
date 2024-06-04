@@ -14,6 +14,7 @@ copies or substantial portions of the Software.
 
 **Halo**, a Python package for displaying loading animations, is used in this project.
 Copyright (c) 2017 Manraj Singh
+(https://pypi.org/project/halo/)
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
